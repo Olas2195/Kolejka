@@ -1,0 +1,7 @@
+[
+{"liczba":2},
+{"liczba":3},
+{"liczba":5},
+{"liczba":3},
+{"liczba":2},
+]
